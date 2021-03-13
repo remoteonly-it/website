@@ -13,8 +13,8 @@
         to help your projects to come into truth.
       </p>
       <p>
-        An evolving team of professional developer able to augment your already
-        existing team or being an independant team
+        An evolving team of professional developers able to augment your already
+        existing team or being an independent team
         <strong>from zero to your MVP</strong>.
       </p>
     </div>

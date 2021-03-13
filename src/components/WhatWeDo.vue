@@ -11,7 +11,8 @@
       <ul>
         <li>Frontend development / Vue.js</li>
         <li>Backend development / Node.js, PHP</li>
-        <li>Mobile development / Objective-C, Swift, Kotlin</li>
+        <li>iOS development / Objective-C, Swift</li>
+        <li>Android development / Kotlin</li>
         <li>QA</li>
       </ul>
     </div>
